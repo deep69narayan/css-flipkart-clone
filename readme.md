@@ -5,4 +5,4 @@ This is my first CSS project. Simple home page of an eCommerce website created u
 
 View the project live:- https://css-flipkart-clone-narayan9deep.netlify.app/
 
-The project is currently not responsive, but I will make try and make it responsive in the future.
+The project is currently not responsive, but I will try and make it responsive in the future.
